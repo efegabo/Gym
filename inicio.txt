@@ -1,0 +1,9 @@
+app multi-tenant es una sola aplicación que sirve a múltiples clientes (empresas)
+
+Admin de Gym A entra:
+token → gym_id = 1
+ve solo sus datos
+
+Admin de Gym B entra:
+token → gym_id = 2
+ve solo sus datos
